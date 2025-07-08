@@ -3,5 +3,7 @@ A hands-on practice project for learning and applying different web element loca
 
 🛠 Requirements
 -Java 8+
+
 -Maven (for dependency management)
+
 -Selenium WebDriver
